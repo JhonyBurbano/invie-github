@@ -1,2 +1,1 @@
-# invie-github
-Tus mejores guitarras
+esta es una practica del curso resposive desing de platzi.
